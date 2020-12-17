@@ -11,7 +11,7 @@ canvas   {
 .container {
     margin: auto;
     width: 50%;
-    padding: 70px 0;
+    padding: 10px 0 50px 0;
 }
 
 #congrats, .firstSet, .secondSet, .thirdSet, .fourthSet {
