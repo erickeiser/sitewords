@@ -1,0 +1,51 @@
+
+.container-fluid {
+    width: 100%;
+    margin-left: -999px;
+    padding: 0;
+}
+canvas   {
+    background-color: #000;
+    
+}
+.container {
+    margin: auto;
+    width: 50%;
+    padding: 70px 0;
+}
+
+#congrats, .firstSet, .secondSet, .thirdSet, .fourthSet {
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Grandstander', 'cursive';
+}
+
+ .btn-lg{
+    margin-left: 33%;
+    width: 25%;
+}
+.container {
+    margin: 0 auto;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    background-color: #2196F3;
+    padding: 10px;
+}
+
+.grid-item, .grid-item-2, .grid-item-3, .grid-item-4 {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+     font-family: 'Grandstander', cursive;
+  }
+  
+ 
+    
+  
+    
+    
